@@ -1,0 +1,6 @@
+item_code,item_name,cabinet,opening_units,net_change,on_hand_units,reorder_point,valid_movement_count,status
+MED-207,Saline flushes,TRIAGE,6,-4,2,6,3,REORDER
+MED-104,Gauze pads,TRIAGE,12,1,13,8,3,STOCKED
+MED-318,Nitrile gloves,EXAM,30,-8,22,18,2,STOCKED
+MED-425,Alcohol wipes,EXAM,4,-4,0,5,1,EMPTY
+MED-536,Cold packs,RECEPTION,9,-9,0,4,3,EMPTY
