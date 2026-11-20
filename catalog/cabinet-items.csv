@@ -1,0 +1,6 @@
+item_code,item_name,cabinet,opening_units,reorder_point,display_order
+MED-104,Gauze pads,TRIAGE,12,8,20
+MED-207,Saline flushes,TRIAGE,6,6,10
+MED-318,Nitrile gloves,EXAM,30,18,30
+MED-425,Alcohol wipes,EXAM,4,5,40
+MED-536,Cold packs,RECEPTION,9,4,50
